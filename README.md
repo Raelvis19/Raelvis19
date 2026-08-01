@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Raelvis Paulino 👋
+# Raelvis Paulino 
 
 ### Junior Frontend Developer | Estudiante de Ingeniería en Sistemas
 
